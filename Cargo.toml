@@ -1,0 +1,7 @@
+[package]
+name = "cryptoscrap"
+version = "0.1.0"
+authors = ["Quarry"]
+
+[dependencies]
+select = "0.4.0"
